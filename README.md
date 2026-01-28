@@ -1,6 +1,6 @@
 # Telegram Group Bot (Catalog)
 
-A curated collection of bots designed to manage, moderate, and engage telegram groups efficiently | [Free Gift*](https://github.com/IAEnki/Festival) | Last updated 28/01/2026
+A curated collection of bots designed to manage, moderate, and engage telegram groups efficiently | Other Catalogs [Bogema](https://github.com/IAEnki/Bogema) [Festival](https://github.com/IAEnki/Festival) [Christian](https://github.com/IAEnki/Christian) | Last updated 28/01/2026
 
 ---
 

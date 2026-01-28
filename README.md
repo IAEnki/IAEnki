@@ -1,6 +1,21 @@
 # Telegram Group Bot (Catalog)
 
-A curated collection of bots designed to manage, moderate, and engage telegram groups efficiently | [Free Gift*](https://github.com/IAEnki/Festival) | Last updated 12/31/2025
+A curated collection of bots designed to manage, moderate, and engage telegram groups efficiently | [Free Gift*](https://github.com/IAEnki/Festival) | Last updated 28/01/2026
+
+---
+
+<table style="width: 100%; border-collapse: collapse;">
+  <tr>
+    <td style="vertical-align: top; width: 0; padding: 0;">
+      <img src="image/qrcode.jpg" style="width: 150px; height: 150px; display: block;">
+    </td>
+    <td style="vertical-align: top; padding-left: 15px;">
+      <h3 style="margin-top: 0;">QRCode</h3>
+      <p>$15</p>
+    </td>
+  </tr>
+</table>
+Create QR Code from internet addresses
 
 ---
 

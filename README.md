@@ -172,21 +172,6 @@ For those who enjoy playing, the group can also watch the matches
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
     <td style="vertical-align: top; width: 0; padding: 0;">
-      <img src="image/ticker.jpg" style="width: 150px; height: 150px; display: block;">
-    </td>
-    <td style="vertical-align: top; padding-left: 15px;">
-      <h3 style="margin-top: 0;">Ticker</h3>
-      <p>$15</p>
-    </td>
-  </tr>
-</table>
-Ticker price for coin
-
----
-
-<table style="width: 100%; border-collapse: collapse;">
-  <tr>
-    <td style="vertical-align: top; width: 0; padding: 0;">
       <img src="image/link.jpg" style="width: 150px; height: 150px; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
@@ -196,6 +181,21 @@ Ticker price for coin
   </tr>
 </table>
 A list of useful links that can be delivered on a scheduled basis to the group, very good for guides and topics
+
+---
+
+<table style="width: 100%; border-collapse: collapse;">
+  <tr>
+    <td style="vertical-align: top; width: 0; padding: 0;">
+      <img src="image/ticker.jpg" style="width: 150px; height: 150px; display: block;">
+    </td>
+    <td style="vertical-align: top; padding-left: 15px;">
+      <h3 style="margin-top: 0;">Ticker</h3>
+      <p>$15</p>
+    </td>
+  </tr>
+</table>
+Ticker price for coin
 
 ---
 

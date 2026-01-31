@@ -1,6 +1,6 @@
 # Telegram Group Bot (Main)
 
-A curated collection of bots designed to manage, moderate, and engage telegram groups efficiently | Other Catalogs Under Construction [Bogema](https://github.com/IAEnki/Bogema) [Festival](https://github.com/IAEnki/Festival) [Christian](https://github.com/IAEnki/Christian) | Last updated 30/01/2026
+A curated collection of bots designed to manage, moderate, and engage telegram groups efficiently | Other Catalogs Under Construction [Bogema](https://github.com/IAEnki/Bogema) [Festival](https://github.com/IAEnki/Festival) [Christian](https://github.com/IAEnki/Christian) | Last updated 31/01/2026
 
 ---
 

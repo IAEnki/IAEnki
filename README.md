@@ -7,6 +7,51 @@ A curated collection of bots designed to manage, moderate, and engage telegram g
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
     <td style="vertical-align: top; width: 0; padding: 0;">
+      <img src="image/encrypt.jpg" style="width: 150px; height: 150px; display: block;">
+    </td>
+    <td style="vertical-align: top; padding-left: 15px;">
+      <h3 style="margin-top: 0;">Encrypt</h3>
+      <p>$10</p>
+    </td>
+  </tr>
+</table>
+Encrypt public group messages
+
+---
+
+<table style="width: 100%; border-collapse: collapse;">
+  <tr>
+    <td style="vertical-align: top; width: 0; padding: 0;">
+      <img src="image/decrypt.jpg" style="width: 150px; height: 150px; display: block;">
+    </td>
+    <td style="vertical-align: top; padding-left: 15px;">
+      <h3 style="margin-top: 0;">Decrypt</h3>
+      <p>$10</p>
+    </td>
+  </tr>
+</table>
+Decrypt messages from the public group
+
+---
+
+<table style="width: 100%; border-collapse: collapse;">
+  <tr>
+    <td style="vertical-align: top; width: 0; padding: 0;">
+      <img src="image/star.jpg" style="width: 150px; height: 150px; display: block;">
+    </td>
+    <td style="vertical-align: top; padding-left: 15px;">
+      <h3 style="margin-top: 0;">Star</h3>
+      <p>$10</p>
+    </td>
+  </tr>
+</table>
+Show notifications in the group of stars that have been earned
+
+---
+
+<table style="width: 100%; border-collapse: collapse;">
+  <tr>
+    <td style="vertical-align: top; width: 0; padding: 0;">
       <img src="image/qrcode.jpg" style="width: 150px; height: 150px; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">

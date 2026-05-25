@@ -56,7 +56,7 @@ Show notifications in the group of stars that have been earned
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">QRCode</h3>
-      <p>$10</p>
+      <p>$</p>
     </td>
   </tr>
 </table>
@@ -86,7 +86,7 @@ Make memes of your friends with funny phrases, everyone will have fun
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">Oracle</h3>
-      <p>$10</p>
+      <p>$</p>
     </td>
   </tr>
 </table>
@@ -326,7 +326,7 @@ Several examples of useful V3 contracts
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">Order</h3>
-      <p>$20</p>
+      <p>$</p>
     </td>
   </tr>
 </table>
